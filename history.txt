@@ -1,0 +1,24 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  echo "hola
+echo "hola"
+clear
+
+echo "hola
+    5  echo "hola"
+    6  clear
+    7  ls
+    8  echo "hola"
+    9  echo $HOME
+   10  ma echo
+   11  man echo
+   12  man man
+   13  cd repogit
+   14  ls
+   15  git clone https://github.com/sabrirmz/rmzsabri_clase.git
+   16  ls
+   17  cd vagrant_repo
+   18  cd rmzsabri_clase
+   19  ls
+   20  history > history.txt
